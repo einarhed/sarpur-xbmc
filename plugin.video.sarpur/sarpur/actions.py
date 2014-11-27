@@ -18,6 +18,7 @@ def index():
     """
 
     INTERFACE.addItem('Bein útsending RÚV', 'play_live', 'ruv')
+    INTERFACE.addItem('Bein útsending RÚV Íþróttir', 'play_live', 'ruvSport')
     INTERFACE.addItem('Bein útsending RÁS 1', 'play_live', 'ras1')
     INTERFACE.addItem('Bein útsending RÁS 2', 'play_live', 'ras2')
     INTERFACE.addItem('Bein útsending Rondó', 'play_live', 'rondo')
